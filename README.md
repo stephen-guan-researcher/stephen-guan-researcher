@@ -96,8 +96,12 @@
 <br/>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-guan-researcher&theme=dark&layout=compact" /> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephen-guan-researcher&theme=xcode" /> </div>
-
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-guan-researcher&theme=dark&layout=compact" /> </td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=stephen-guan-researcher&theme=xcode" /> </td>
+  </tr>
+</table>
 
 
 
