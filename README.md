@@ -23,7 +23,7 @@
 
 
 <br/>
-<div align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=stephen-guan-researcher&show_icons=true&theme=dark&count](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-guan-researcher&theme=dark&layout=compact)" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-guan-researcher&theme=dark&layout=compact" /> </div>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-guan-researcher&theme=dark&layout=compact)
 
