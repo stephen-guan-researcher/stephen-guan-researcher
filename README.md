@@ -19,6 +19,7 @@
   
 - ⚡ Fun fact:  I have a Master's degree in Computer Science from the University of Glasgow, have co-authored high-quality research papers in English for SCI journals, and am currently in the process of applying for a PhD program for 2024.
 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stephen-guan-researcher&show_icons=true&theme=transparent" /> </div>
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stephen-guan-researcher&show_icons=true&theme=dark&count_private=true)
