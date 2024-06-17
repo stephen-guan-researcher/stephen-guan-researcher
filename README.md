@@ -40,3 +40,7 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephen-guan-researcher&theme=xcode" /> </div>
 
+
+![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=stephen-guan-researcher&theme=vue)
+
+
