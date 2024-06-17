@@ -126,18 +126,7 @@
   </picture>
 </div>
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=stephen-guan-researcher&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=stephen-guan-researcher&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 
 
 <!-- ########################################## 分割 ########################################## -->
