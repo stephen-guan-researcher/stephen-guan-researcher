@@ -134,8 +134,6 @@
 
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
