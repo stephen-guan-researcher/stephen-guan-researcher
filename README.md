@@ -2,6 +2,7 @@
 ## Hi there 👋, I'm Stephen!
 
 <div align="center"> <img src="https://profile-counter.glitch.me/stephen-guan-researcher/count.svg" /></div>
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 
 - 🔭 I’m currently working on deploying AI large models at Tencent. My work involves extensive research in various NLP-related tasks, including named entity recognition, prompt tuning, model optimization, embedding encrypted information in generative models, and building retrieval-augmented generation (RAG) systems. These areas are at the forefront of my research efforts, driving innovation and enhancing the capabilities of our AI systems. Additionally, I use cutting-edge algorithms for database security detection and integrate large models to upgrade traditional security technologies.
 
@@ -24,11 +25,7 @@
 
 <br/>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-guan-researcher&theme=dark&layout=compact" /> </div>
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-guan-researcher&theme=dark&layout=compact)
-
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephen-guan-researcher&theme=xcode" /> </div>
-
 
 
 
