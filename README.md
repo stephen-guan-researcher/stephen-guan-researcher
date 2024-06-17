@@ -73,18 +73,6 @@
 <tr><td>
 
 
-<div align="center"> <img src="https://profile-counter.glitch.me/stephen-guan-researcher/count.svg" /></div>
-
-
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stephen-guan-researcher&show_icons=true&theme=dark&count" /> </div>
-
-
-<br/>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-guan-researcher&theme=dark&layout=compact" /> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephen-guan-researcher&theme=xcode" /> </div>
-
-
 ### 🤾‍♂️ Funny Soul
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
@@ -96,6 +84,18 @@
 </td></tr>
 
 <tr><td>
+
+
+<div align="center"> <img src="https://profile-counter.glitch.me/stephen-guan-researcher/count.svg" /></div>
+
+
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stephen-guan-researcher&show_icons=true&theme=dark&count" /> </div>
+
+
+<br/>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-guan-researcher&theme=dark&layout=compact" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephen-guan-researcher&theme=xcode" /> </div>
 
 
 
