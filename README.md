@@ -1,11 +1,7 @@
 
 ## Hi there 👋, I'm Stephen!
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stephen-guan-researcher&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</div>
-
-<div align="center"> <img src="https://profile-counter.glitch.me/stephen-guan-researcher/count.svg" />View </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/stephen-guan-researcher/count.svg" /></div>
 
 - 🔭 I’m currently working on deploying AI large models at Tencent. My work involves extensive research in various NLP-related tasks, including named entity recognition, prompt tuning, model optimization, embedding encrypted information in generative models, and building retrieval-augmented generation (RAG) systems. These areas are at the forefront of my research efforts, driving innovation and enhancing the capabilities of our AI systems. Additionally, I use cutting-edge algorithms for database security detection and integrate large models to upgrade traditional security technologies.
 
