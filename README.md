@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<div align="center"> <img src="https://profile-counter.glitch.me/QInzhengk/count.svg" /> </div>
+
 - 🔭 I’m currently working on deploying AI large models at Tencent. My work involves extensive research in various NLP-related tasks, including named entity recognition, prompt tuning, model optimization, embedding encrypted information in generative models, and building retrieval-augmented generation (RAG) systems. These areas are at the forefront of my research efforts, driving innovation and enhancing the capabilities of our AI systems. Additionally, I use cutting-edge algorithms for database security detection and integrate large models to upgrade traditional security technologies.
 
 - 🌱 I’m currently learning advanced NLP algorithms and their application in real-world scenarios.
@@ -31,8 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
   
 - ⚡ Fun fact:  I have a Master's degree in Computer Science from the University of Glasgow, have co-authored high-quality research papers in English for SCI journals, and am currently in the process of applying for a PhD program for 2024.
-
-<div align="center"> <img src="https://profile-counter.glitch.me/QInzhengk/count.svg" /> </div>
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stephen-guan-researcher&show_icons=true&theme=dark&count_private=true)
