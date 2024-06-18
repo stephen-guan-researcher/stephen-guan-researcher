@@ -1,5 +1,5 @@
 
-## Hi there 👋, I'm Stephen!
+## Hi there 🙋 , I'm Stephen!
 
 
 <div align="center">
@@ -42,7 +42,6 @@
 
 </div>
 
-#  🙋 Hello
 
 <table>
   
